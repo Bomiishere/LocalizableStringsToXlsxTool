@@ -1,13 +1,13 @@
-### Features
+## Features
 
 - Convert iOS Localizable.strings into Xlsx document
 
-### Requirements
+## Requirements
 
 * Python 3
 * pip install
 
-##### Modules
+#### Modules
 | Xlsx  | Regular Expression  | 
 | :------------: |:---------------:|
 | xlsxwriter | re |
