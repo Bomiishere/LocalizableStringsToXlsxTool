@@ -2,12 +2,12 @@
 
 - Convert iOS Localizable.strings into Xlsx document
 
-###Requirements
+### Requirements
 
 * Python 3
 * pip install
 
-#####Modules
+##### Modules
 | Xlsx  | Regular Expression  | 
 | :------------: |:---------------:|
 | xlsxwriter | re |
@@ -16,4 +16,4 @@
 ```bash
 python3 covert_xlsx.py
 ```
-Execute convert_xlsx.py to generate result.xlsx
+Execute convert_xlsx.py, generate result.xlsx
