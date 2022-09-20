@@ -14,7 +14,7 @@
 
 ## Usage
 ```bash
-python3 covert_xlsx.py
+python3 convert_xlsx.py
 ```
 Execute convert_xlsx.py, generate result.xlsx
 
